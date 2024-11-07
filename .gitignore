@@ -43,6 +43,11 @@ lerna-debug.log*
 .env.production.local
 .env.local
 
+#ssl Files
+privatekey.pem
+public.crt
+csr.pem
+
 # temp directory
 .temp
 .tmp
